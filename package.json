@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-web-session-generator",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp Web session generator using whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tanujairam",
+  "license": "ISC",
+  "dependencies": {
+    "whatsapp-web.js": "^1.15.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
